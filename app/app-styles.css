@@ -953,6 +953,10 @@ textarea {
 .Articles .Article .excerpt {
   padding: 0 0.882352941176471rem;
 }
+.Articles .Article .excerpt > a,
+.Articles .Article .excerpt > *:nth-last-child(2) {
+  display: inline;
+}
 .Articles .Article .img {
   position: relative;
   padding: 30% 0;
