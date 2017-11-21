@@ -1,4 +1,4 @@
-https://vasilisfrantzolas.gr/panel/* http://panel.vasilisfrantzolas.gr/:splat 200
+/api/* http://panel.vasilisfrantzolas.gr/api/:splat 200
 /articles/* /index.html 200
 /cv /index.html 200
 /contact /index.html 200
