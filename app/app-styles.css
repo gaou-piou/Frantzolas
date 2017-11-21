@@ -368,6 +368,7 @@ a:focus {
 input,
 textarea {
   background: transparent;
+  border-radius: 0;
 }
 #Footer {
   position: relative;
